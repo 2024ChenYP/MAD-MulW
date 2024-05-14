@@ -1,0 +1,21 @@
+# 1 5 6 10 14(13)
+_BGP_FILES_ = {
+    0: 'dataset_code-red_513_1_rrc04',
+    1: 'dataset_code-red_559_1_rrc04',
+    2: 'dataset_code-red_6893_1_rrc04',
+    3: 'dataset_nimda_513_1_rrc04',
+    4: 'dataset_nimda_559_1_rrc04',
+    5: 'dataset_nimda_6893_1_rrc04',
+    6: 'dataset_slammer_513_1_rrc04',
+    7: 'dataset_slammer_559_1_rrc04',
+    8: 'dataset_slammer_6893_1_rrc04',
+    9: 'dataset_moscow_blackout_1853_1_rrc05',
+    10: 'dataset_moscow_blackout_12793_1_rrc05',
+    11: 'dataset_moscow_blackout_13237_rrc05',
+    12: 'dataset_malaysian-telecom_513_1_rrc04',
+    13: 'dataset_malaysian-telecom_20932_1_rrc04',
+    14: 'dataset_malaysian-telecom_25091_1_rrc04',
+    15: 'dataset_malaysian-telecom_34781_1_rrc04',
+    16: 'dataset_japan-earthquake_2497_1_rrc06',
+    17: 'dataset_japan-earthquake_10026_1_rv-sydney',
+}
