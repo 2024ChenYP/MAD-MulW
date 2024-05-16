@@ -4,7 +4,7 @@ This is the PyTorch implementation of paper MAD-MulW: A Multi-Window Anomaly Det
 
 📢 Miscellaneous Resources: Please check out our data-centric AI survey and awesome data-centric AI resources!
 
-![img_1.png](img_1.png)
+![img_1.png](overlook.png)
 
 ### Installation
 
