@@ -4,7 +4,7 @@ This is the PyTorch implementation of paper MAD-MulW: A Multi-Window Anomaly Det
 
 📢 Miscellaneous Resources: Please check out our data-centric AI survey and awesome data-centric AI resources!
 
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 ### Installation
 
@@ -14,7 +14,7 @@ Please ensure to use Python 3.7
 
 ### Datasets
 
-We used part of the UCR data set and part of the BGP data set, available for download at [Link 1]() and [Link 2](), respectively.
+We used part of the UCR data set and part of the BGP data set, available for download at [Link 1](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/) and [Link 2](https://github.com/ufam-lia/bgp-feature-extractor/wiki/Dataset-Features), respectively.
 
 ### Quick Start
 
